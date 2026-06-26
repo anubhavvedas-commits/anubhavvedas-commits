@@ -1,3 +1,1 @@
-### Hello World! 👋
-
-[![My GitHub stats](https://vercel.app)](https://github.com)&theme=cyberpunk
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anubhavvedas-commits&layout=compact&theme=matrix)
